@@ -15,7 +15,7 @@ public class Prog100CrossPattern {
 	                System.out.println(" * ");
 	            }
 	        }
-		
+	//hfjfjf	
 		
 	}
 
